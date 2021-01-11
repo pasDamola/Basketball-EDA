@@ -1,2 +1,4 @@
 # Basketball-EDA
-Analysis on player stats for NBA teams
+Analysis on player stats for NBA team
+
+* Python libraries: base64, pandas, streamlit, matplotlib
