@@ -10,4 +10,4 @@ Data can be filtered based on;
 
 Below is an image of the web app
 
-![alt text](https://github.com/pasDamola/Basketball-EDA/blob/nbapp.png "NBA player stats web app")
+![alt text](https://github.com/pasDamola/Basketball-EDA/blob/main/nbapp.png, "NBA player stats web app")
