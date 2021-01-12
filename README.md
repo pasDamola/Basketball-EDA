@@ -9,3 +9,5 @@ Data can be filtered based on;
 * Position
 
 Below is an image of the web app
+
+![alt text](https://github.com/pasDamola/Basketball-EDA/blob/nbapp.png "NBA player stats web app")
