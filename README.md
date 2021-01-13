@@ -8,6 +8,8 @@ Data can be filtered based on;
 * Team
 * Player Position
 
+Here is the link to the web app: ![alt text](https://nba-data-analysis.herokuapp.com/ "Web link")
+
 Below is an image of the web app
 
 ![alt text](https://github.com/pasDamola/Basketball-EDA/blob/main/nbapp.png "NBA player stats web app")
